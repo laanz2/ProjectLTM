@@ -1,0 +1,9 @@
+D:\lập trình mạng\LuckyWheelGame\LuckyWheelClient\bin\Debug\LuckyWheelClient.exe.config
+D:\lập trình mạng\LuckyWheelGame\LuckyWheelClient\bin\Debug\LuckyWheelClient.exe
+D:\lập trình mạng\LuckyWheelGame\LuckyWheelClient\bin\Debug\LuckyWheelClient.pdb
+D:\lập trình mạng\LuckyWheelGame\LuckyWheelClient\obj\Debug\LuckyWheelClient.csproj.AssemblyReference.cache
+D:\lập trình mạng\LuckyWheelGame\LuckyWheelClient\obj\Debug\LuckyWheelClient.Properties.Resources.resources
+D:\lập trình mạng\LuckyWheelGame\LuckyWheelClient\obj\Debug\LuckyWheelClient.csproj.GenerateResource.cache
+D:\lập trình mạng\LuckyWheelGame\LuckyWheelClient\obj\Debug\LuckyWheelClient.csproj.CoreCompileInputs.cache
+D:\lập trình mạng\LuckyWheelGame\LuckyWheelClient\obj\Debug\LuckyWheelClient.exe
+D:\lập trình mạng\LuckyWheelGame\LuckyWheelClient\obj\Debug\LuckyWheelClient.pdb

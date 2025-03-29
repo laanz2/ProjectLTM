@@ -1,0 +1,7 @@
+D:\lập trình mạng\LuckyWheelGame\LuckyWheelServer\bin\Debug\LuckyWheelServer.exe.config
+D:\lập trình mạng\LuckyWheelGame\LuckyWheelServer\bin\Debug\LuckyWheelServer.exe
+D:\lập trình mạng\LuckyWheelGame\LuckyWheelServer\bin\Debug\LuckyWheelServer.pdb
+D:\lập trình mạng\LuckyWheelGame\LuckyWheelServer\obj\Debug\LuckyWheelServer.csproj.AssemblyReference.cache
+D:\lập trình mạng\LuckyWheelGame\LuckyWheelServer\obj\Debug\LuckyWheelServer.csproj.CoreCompileInputs.cache
+D:\lập trình mạng\LuckyWheelGame\LuckyWheelServer\obj\Debug\LuckyWheelServer.exe
+D:\lập trình mạng\LuckyWheelGame\LuckyWheelServer\obj\Debug\LuckyWheelServer.pdb
